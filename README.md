@@ -3,6 +3,7 @@
 </p>
 
 🎬 Amazon Prime TV Shows and Movies — Exploratory Data Analysis
+project link:https://colab.research.google.com/drive/11YpnirKmLFJZi-5nB85uJLJx1sQy-ClT#scrollTo=yQaldy8SH6Dl
 📌 Project Overview
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the Amazon Prime Video content library, covering more than 9,000 movies and TV shows available in the United States. The goal is to uncover meaningful insights into content trends, audience preferences, and platform diversity to support data-driven business decisions.
