@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="almabetter-logo.png" alt="AlmaBetter Logo" width="220">
+</p>
 
 🎬 Amazon Prime TV Shows and Movies — Exploratory Data Analysis
 📌 Project Overview
